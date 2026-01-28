@@ -179,7 +179,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     )}
                   >
                     {
-                      "Building things for building things.\nDesign and code at Plasmic."
+                      "Building things for building dedwedwedwe\n.\nDesign and code at Plasmic."
                     }
                   </div>
                 </div>
@@ -200,7 +200,15 @@ function PlasmicHomepage__RenderFunc(props: {
                     data-plasmic-override={overrides.copyableLink}
                     className={classNames("__wab_instance", sty.copyableLink)}
                   >
-                    {"aw@gmail.com"}
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__rU2Cg
+                      )}
+                    >
+                      {"aw@gmail.com"}
+                    </div>
                   </CopyableLink>
                 </div>
                 <div
