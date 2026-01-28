@@ -179,7 +179,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     )}
                   >
                     {
-                      "Building things for building dedwedwedwe\n.\nDesign and code at Plasmic."
+                      "Building things for building dedwedwedwe\n.\nDesign and code eat Plasmic."
                     }
                   </div>
                 </div>
