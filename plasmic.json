@@ -54,6 +54,34 @@
           "cssFilePath": "plasmic/minimalist_about_me_page/PlasmicCopyableLink.module.css",
           "scheme": "blackbox",
           "componentType": "component"
+        },
+        {
+          "id": "d3n28mgMlKCD",
+          "name": "NewPage",
+          "type": "managed",
+          "projectId": "s48h5mVi5f22yNVro3eX55",
+          "renderModuleFilePath": "plasmic/minimalist_about_me_page/PlasmicNewPage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page.tsx"
+          },
+          "cssFilePath": "plasmic/minimalist_about_me_page/PlasmicNewPage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/new-page"
+        },
+        {
+          "id": "OpB0Hx1q8CKr",
+          "name": "NewPage2",
+          "type": "managed",
+          "projectId": "s48h5mVi5f22yNVro3eX55",
+          "renderModuleFilePath": "plasmic/minimalist_about_me_page/PlasmicNewPage2.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page-2.tsx"
+          },
+          "cssFilePath": "plasmic/minimalist_about_me_page/PlasmicNewPage2.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/new-page-2"
         }
       ],
       "icons": [
@@ -71,9 +99,70 @@
           "id": "XMfS2y2h2i69",
           "name": "Icon3Icon",
           "moduleFilePath": "plasmic/minimalist_about_me_page/icons/PlasmicIcon__Icon3.tsx"
+        },
+        {
+          "id": "MHoygwaq8I7H",
+          "name": "Icon4Icon",
+          "moduleFilePath": "plasmic/minimalist_about_me_page/icons/PlasmicIcon__Icon4.tsx"
+        },
+        {
+          "id": "rPN5ebI8LRBJ",
+          "name": "Icon5Icon",
+          "moduleFilePath": "plasmic/minimalist_about_me_page/icons/PlasmicIcon__Icon5.tsx"
+        },
+        {
+          "id": "f-MT9TvUNlfV",
+          "name": "Icon6Icon",
+          "moduleFilePath": "plasmic/minimalist_about_me_page/icons/PlasmicIcon__Icon6.tsx"
+        },
+        {
+          "id": "g5gp1myXY9Mc",
+          "name": "Icon8Icon",
+          "moduleFilePath": "plasmic/minimalist_about_me_page/icons/PlasmicIcon__Icon8.tsx"
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "id": "DL0sUtsy9yuf",
+          "name": "HomePage",
+          "filePath": "../public/plasmic/minimalist_about_me_page/images/homePage.jpg"
+        },
+        {
+          "id": "a4RJrDEcYozh",
+          "name": "ProjectPage",
+          "filePath": "../public/plasmic/minimalist_about_me_page/images/projectPage.jpg"
+        },
+        {
+          "id": "bu1m-a-mdmo7",
+          "name": "ProjectPage 2",
+          "filePath": "../public/plasmic/minimalist_about_me_page/images/projectPage2.jpg"
+        },
+        {
+          "id": "DiwPVyMz63WG",
+          "name": "ProjectPage 3",
+          "filePath": "../public/plasmic/minimalist_about_me_page/images/projectPage3.jpg"
+        },
+        {
+          "id": "odV-1JN4H7Pq",
+          "name": "ProjectPage 4",
+          "filePath": "../public/plasmic/minimalist_about_me_page/images/projectPage4.jpg"
+        },
+        {
+          "id": "yYazXxB6RmrC",
+          "name": "ProjectPage 5",
+          "filePath": "../public/plasmic/minimalist_about_me_page/images/projectPage5.jpg"
+        },
+        {
+          "id": "lXlGJDXj25CL",
+          "name": "ProjectPage 6",
+          "filePath": "../public/plasmic/minimalist_about_me_page/images/projectPage6.jpg"
+        },
+        {
+          "id": "q3KUAqGAJUIY",
+          "name": "Icon 7",
+          "filePath": "../public/plasmic/minimalist_about_me_page/images/icon7.svg"
+        }
+      ],
       "indirect": false,
       "globalContextsFilePath": "",
       "splitsProviderFilePath": "",

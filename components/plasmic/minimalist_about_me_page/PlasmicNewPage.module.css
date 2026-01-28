@@ -1,0 +1,924 @@
+.root {
+  display: grid;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  align-content: flex-start;
+  justify-items: center;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  grid-template-columns:
+    var(--plsmc-viewport-gap) 1fr minmax(0, var(--plsmc-wide-chunk))
+    min(
+      var(--plsmc-standard-width),
+      calc(100% - var(--plsmc-viewport-gap) - var(--plsmc-viewport-gap))
+    )
+    minmax(0, var(--plsmc-wide-chunk)) 1fr var(--plsmc-viewport-gap);
+}
+.root > * {
+  grid-column: 4;
+}
+.animatedPortfolioWebsite {
+  background: rgba(255, 255, 255, 1);
+  width: 1337px;
+  height: 871px;
+  display: block;
+  overflow: hidden;
+}
+.container {
+  opacity: 0.639648973941803;
+  transform: translate(0.11678123474121094px, -0.28682422637939453px);
+  width: 1290px;
+  height: 840px;
+  display: block;
+  position: absolute;
+  top: 16px;
+  left: 24px;
+}
+.homePage {
+  background: url("/plasmic/minimalist_about_me_page/images/homePage.jpg") center center / cover no-repeat;
+  width: 1290px;
+  height: 840px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.homePage2 {
+  background: rgba(23, 162, 168, 0.800000011920929);
+  width: 1290px;
+  height: 840px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.container2 {
+  opacity: 0.30000001192092896;
+  width: 1338px;
+  height: 872px;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container3 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container4 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container5 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container6 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container7 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container8 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container9 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container10 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container11 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container12 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container13 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container14 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container15 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container16 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container17 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container18 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container19 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container20 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container21 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container22 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container23 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container24 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container25 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container26 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container27 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container28 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container29 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container30 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container31 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container32 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container33 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container34 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container35 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container36 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container37 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container38 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container39 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container40 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container41 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container42 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container43 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container44 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container45 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container46 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container47 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container48 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container49 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container50 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container51 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container52 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container53 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container54 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container55 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container56 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container57 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container58 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container59 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container60 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container61 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container62 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container63 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container64 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container65 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container66 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container67 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container68 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container69 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container70 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container71 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container72 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container73 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container74 {
+  height: 2px;
+  display: block;
+  position: relative;
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.container75 {
+  width: 1338px;
+  height: 872px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.container76 {
+  transform: translate(-0.33331298828125px, -0.33331298828125px);
+  width: 576px;
+  height: 352px;
+  display: block;
+  position: absolute;
+  top: 260px;
+  left: 381px;
+}
+.link {
+  transform: translate(0.29168701171875px, -0.333343505859375px);
+  width: 132px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 9px;
+  left: 222px;
+}
+.text {
+  transform: translate(0px, 0.333343505859375px);
+  width: 132px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: -9px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text___3QjYn {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Arial";
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.link2 {
+  transform: translate(0.13543701171875px, -0.333343505859375px);
+  width: 190px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 53px;
+  left: 193px;
+}
+.text2 {
+  transform: translate(0px, 0.333343505859375px);
+  width: 190px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: -9px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text___7RA3P {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Arial";
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.link3 {
+  transform: translate(0.29168701171875px, -0.333343505859375px);
+  width: 132px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 97px;
+  left: 222px;
+}
+.text3 {
+  transform: translate(0px, 0.333343505859375px);
+  width: 132px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: -9px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__bp0Pf {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Arial";
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.link4 {
+  transform: translate(-0.1875px, -0.333343505859375px);
+  width: 213px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 141px;
+  left: 182px;
+}
+.text4 {
+  transform: translate(0px, 0.333343505859375px);
+  width: 213px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: -9px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__pRz00 {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Arial";
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.link5 {
+  transform: translate(-0.29168701171875px, -0.333343505859375px);
+  width: 245px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 185px;
+  left: 166px;
+}
+.text5 {
+  transform: translate(0px, 0.333343505859375px);
+  width: 245px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: -9px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__idF0Y {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Arial";
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.link6 {
+  transform: translate(0.125px, -0.333343505859375px);
+  width: 150px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 229px;
+  left: 213px;
+}
+.text6 {
+  transform: translate(0px, 0.333343505859375px);
+  width: 150px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: -9px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__nqqI2 {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Arial";
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.link7 {
+  transform: translate(-0.08331298828125px, -0.33331298828125px);
+  width: 113px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 273px;
+  left: 232px;
+}
+.text7 {
+  transform: translate(0px, 0.33331298828125px);
+  width: 113px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: -9px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__bAwu {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Arial";
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.link8 {
+  transform: translate(0.29168701171875px, -0.33331298828125px);
+  width: 188px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 317px;
+  left: 194px;
+}
+.text8 {
+  transform: translate(0px, 0.33331298828125px);
+  width: 188px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: -9px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__jdEiu {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Arial";
+  letter-spacing: 0px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.heading1 {
+  width: 179px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: 48px;
+  left: 64px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ge {
+  display: block;
+  font-size: 24px;
+  font-family: "Arial";
+  font-weight: 400;
+  letter-spacing: 0.6000000238418579px;
+  line-height: 32px;
+  color: rgba(10, 10, 10, 1);
+  position: relative;
+}
+.paragraph {
+  transform: translate(0.479248046875px, 0px);
+  width: 122px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 48px;
+  left: 1151px;
+}
+.text__sm6A0 {
+  display: block;
+  font-size: 18px;
+  font-family: "Arial";
+  font-weight: 400;
+  letter-spacing: 0.44999998807907104px;
+  line-height: 28px;
+  color: rgba(10, 10, 10, 1);
+  position: absolute;
+  top: -1px;
+  left: 0px;
+}
+.container77 {
+  transform: translate(0px, 0.3333740234375px);
+  width: 213px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  top: 819px;
+  left: 64px;
+  flex-direction: row;
+  column-gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.svg {
+  object-fit: cover;
+  max-width: 100%;
+  color: #0a0a0a;
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.link9 {
+  height: 20px;
+  display: block;
+  position: relative;
+  flex-grow: 1;
+}
+.text__ueRYc {
+  display: block;
+  font-size: 14px;
+  font-family: "Arial";
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 20px;
+  color: rgba(10, 10, 10, 1);
+  position: absolute;
+  top: -1px;
+  left: 0px;
+  transform: translate(0px, -0.3333740234375px);
+}
